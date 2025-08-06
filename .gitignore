@@ -37,3 +37,4 @@ docs/_build/
 
 # result files
 fuzz_test/fuzz_results/*
+00_init/
